@@ -8,5 +8,9 @@ public class Controller {
         Integer a =9;
         Integer b =10;
         System.out.println(a+b);
+
+
+        System.out.println(a);
+        System.out.println(b);
     }
 }
